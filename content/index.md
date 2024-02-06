@@ -5,7 +5,7 @@ Hello World! I am a software quality assurance engineer by day, sewist and gener
 
 ## Professional
 
-See my resume [[resume|here]]. 
+See my resume [[career|here]]. 
 
 ## Hobbies
 

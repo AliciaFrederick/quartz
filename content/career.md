@@ -1,20 +1,18 @@
 ---
-title: Resume
+title: Career
 description: Software Quality Assurance Engineer
-tags:
-  - "#professional"
+tags: []
 draft: false
 date: 2024-02-06
 ---
-# Alicia Frederick
+# Resume
+
+## Alicia Frederick
 
 Software Quality Assurance Engineer
 
 Minneapolis, MN 
-| (630) 669-9192 
-| hink0070@gmail.com 
 | [LinkedIn](https://www.linkedin.com/in/alicia-frederick-62444260/) 
-%%| [GitHub](https://github.com/AliciaFrederick)%% 
 
 ## Professional Summary
 

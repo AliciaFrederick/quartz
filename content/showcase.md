@@ -1,8 +1,7 @@
 ---
 title: Showcase
 draft: true
-tags:
-  - professional
+tags: []
 description: 
 aliases: 
 cssclasses: 
