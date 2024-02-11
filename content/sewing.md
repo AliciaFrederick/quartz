@@ -17,8 +17,20 @@ Also, cosplay is fun :)
 # Skill Tree
 
 ```mermaid
-flowchart LR
-A{knits} --> B[hoodies]
+flowchart TD
+A0{pattern drafting} --> A[basic block]
+A --> B[princess block]
+B --> D[silk slip]
+D --> C[jumper dress]
+D --> E[waistcoat]
+A --> G[Victorian wrapper]
+G --> F[button-down shirt]
+G --> K[tank dress]
+G --> J[Gunne-Sax dress]
+E --> H[blazer]
+F --> H
+F --> L[shirt dress]
+H --> I[wool coat]
 ```
 
 # Roadmap

@@ -3,10 +3,10 @@ title: Welcome
 ---
 Hello World! I am a software quality assurance engineer by day, sewist and general nerd by night. Feel free to look around and get to know me!
 
-## Professional
+## Career
 
-See my resume [[career|here]]. 
+See my resume [[career#Resume|here]].  
 
-## Hobbies
+%%## Hobbies
 
-My [[sewing]] roadmap and philosophy are here.
+My [[sewing]] roadmap and philosophy are here. %%

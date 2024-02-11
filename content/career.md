@@ -1,7 +1,8 @@
 ---
 title: Career
 description: Software Quality Assurance Engineer
-tags: []
+tags:
+  - "#career"
 draft: false
 date: 2024-02-06
 ---
@@ -11,8 +12,7 @@ date: 2024-02-06
 
 Software Quality Assurance Engineer
 
-Minneapolis, MN 
-| [LinkedIn](https://www.linkedin.com/in/alicia-frederick-62444260/) 
+Minneapolis, MN | [LinkedIn](https://www.linkedin.com/in/alicia-frederick-62444260/) 
 
 ## Professional Summary
 
